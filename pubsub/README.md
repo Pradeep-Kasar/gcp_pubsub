@@ -35,6 +35,4 @@ Execute the code.
     
     
     NOTE: I have added attributes to the publisher.py file, but for some reason the code fails when i try to display those attributes as part of subscriber output. I have commented the code.
-    
-    
-    
+   
