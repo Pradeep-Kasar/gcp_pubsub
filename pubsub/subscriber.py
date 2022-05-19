@@ -21,7 +21,6 @@ def callback(message):
 
     message.ack()
 
-
 subscriber_pull_data = subscriber.subscribe(subscriber_path, callback=callback)
 print(f'Listening to message on {subscriber_path}')
 
